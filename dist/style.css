@@ -109,7 +109,3 @@ i:hover {
   background-repeat: no-repeat;
   background-position: 50% 50%;
 }
-
-div.photo::before{
-  content:var('title.png');
-}
